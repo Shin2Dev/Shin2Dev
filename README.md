@@ -1,4 +1,12 @@
 ### Hi there 👋
+## Biografi
+# Nama: Mochamad Imam Hanafi
+# Status : Mahasiswa
+# Instansi : Politeknik Negeri Malang
+
+
+
+
 
 <!--
 **Shin2Dev/Shin2Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
