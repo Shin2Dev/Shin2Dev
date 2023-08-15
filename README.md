@@ -1,8 +1,20 @@
 ### Hi there 👋
+
 ## Biografi
-# Nama: Mochamad Imam Hanafi
-# Status : Mahasiswa
-# Instansi : Politeknik Negeri Malang
+Nama: Mochamad Imam Hanafi <br/>
+Status : Mahasiswa <br/>
+Instansi : Politeknik Negeri Malang <br/>
+
+## Tentang Saya
+Saya adalah seorang mahasiswa di Politeknik Negeri Malang dan sedang menempuh perkuliahan di jurusan Teknologi Informasi prodi D-IV Teknik Informatika. Saya sedang belajar dan mengasah kemampuan saya di bidang IT. Impian Karier saya ingin menjadi Frontend Developer atau Game Developer.
+
+## Bahasa Pemrograman Yang Dikuasai
+- HTML
+- CSS
+- JavaScript
+- Java
+- Python
+
 
 
 
