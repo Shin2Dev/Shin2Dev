@@ -1,6 +1,7 @@
-### Hi there 👋
-
 ## Biografi
+
+![Welcome to My Github](https://github.com/Shin2Dev/Shin2Dev/assets/116169624/2f4aa3c6-0fb7-42a4-a118-39c5845774d8)
+
 Nama: Mochamad Imam Hanafi <br/>
 Status : Mahasiswa <br/>
 Instansi : Politeknik Negeri Malang <br/>
