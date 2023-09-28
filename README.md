@@ -12,13 +12,13 @@ Saya adalah seorang mahasiswa di [Politeknik Negeri Malang (Polinema)](https://w
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Shin2Dev&show_icons=true&count_private=true&theme=radical)
 
 ### Bahasa Pemrograman Yang Dikuasai
-![HTML](https://img.shields.io/badge/FrontEnd-HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/FrontEnd-CSS-lightblue?logo=css3)
-![JavaScript](https://img.shields.io/badge/FrontEnd-JavaScript-yellow?logo=javascript)
-![ReactJS](https://img.shields.io/badge/FrontEnd-ReactJS-lightblue?logo=react)
-![Java](https://img.shields.io/badge/BackEnd-Java-red?logo=java)
-![Python](https://img.shields.io/badge/MachineLearning-Python-blue?logo=python)
-![MySQL](https://img.shields.io/badge/Database-MySQL-cyan?logo=mysql)
+[![HTML](https://img.shields.io/badge/FrontEnd-HTML-orange?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/FrontEnd-CSS-lightblue?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/FrontEnd-JavaScript-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![ReactJS](https://img.shields.io/badge/FrontEnd-ReactJS-lightblue?logo=react)](https://legacy.reactjs.org/)
+[![Java](https://img.shields.io/badge/BackEnd-Java-red?logo=java)](https://www.java.com/en/)
+[![Python](https://img.shields.io/badge/MachineLearning-Python-blue?logo=python)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/Database-MySQL-cyan?logo=mysql)](https://www.mysql.com/)
 
 ### Social Media
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@im4gam902)
