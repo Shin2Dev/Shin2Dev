@@ -15,12 +15,13 @@ Saya adalah seorang mahasiswa di [Politeknik Negeri Malang (Polinema)](https://w
 ![HTML](https://img.shields.io/badge/FrontEnd-HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/FrontEnd-CSS-lightblue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/FrontEnd-JavaScript-yellow?logo=javascript)
+![ReactJS](https://img.shields.io/badge/FrontEnd-ReactJS-lightblue?logo=react)
 ![Java](https://img.shields.io/badge/BackEnd-Java-red?logo=java)
 ![Python](https://img.shields.io/badge/MachineLearning-Python-blue?logo=python)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-cyan?logo=mysql)
 
 ### Social Media
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](www.youtube.com/@im4gam902)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@im4gam902)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/im4gamofficial.id/?hl=id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mochamad-imam-hanafi-1436a5253)
 
